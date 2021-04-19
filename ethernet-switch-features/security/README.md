@@ -1,0 +1,5 @@
+# Security
+
+The IEEE 802.1X standard authentication uses the RADIUS \(Remote Authentication Dial in User Service\) protocol to validate users and provide a security standard for network access control. The user that wishes to be authenticated is called a supplicant. The actual server doing the authentication, typically a RADIUS server, is called the authentication server. The mediating device, such as a switch, is called the authenticator. Clients connected to a port on the switch must be authenticated by the Authentication server \(RADIUS\) before accessing any services offered by the switch on the LAN. Use a RADIUS server to authenticate users trying to access a network by relaying Extensible Authentication Protocol over LAN \(EAPOL\) packets between the client and server. This establishes the requirements needed for a protocol between the authenticator \(the system that passes an authentication request to the authentication server\) and the supplicant \(the system that requests authentication\), as well as between the authenticator and the authentication server.  
+
+
