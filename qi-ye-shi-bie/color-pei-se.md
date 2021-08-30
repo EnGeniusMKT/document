@@ -4,7 +4,6 @@
 
 * The EnGenius logo is always either black or white. 
 * When placing the logo on an image, always use the white version. 
-* For images with a light background, we suggest applying a `10-20%` black tint to the entire image, so that the white logo is legible. 
 * There may be some exceptions to the rule. Please reach out for permission.
 
 
