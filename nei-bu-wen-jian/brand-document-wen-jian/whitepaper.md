@@ -1,6 +1,6 @@
 # Whitepaper
 
-### WhitePaper
+### Whitepaper
 
 * Cloud  [Download Template](https://docs.google.com/document/d/1X-sdVs0z34va3bS28eQoTG0UUMAGu93Q/edit) 
 
