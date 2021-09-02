@@ -4,7 +4,7 @@
 
 1.1.1 Principles 使用原則
 
-1.1.2 Core Element核心元素  
+1.1.2 Core Element 核心元素  
 插畫、影像與輔助圖形  
 Logo與Icon
 
