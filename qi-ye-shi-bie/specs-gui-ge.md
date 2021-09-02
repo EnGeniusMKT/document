@@ -32,7 +32,7 @@ Logo與Icon
 
 ![](../.gitbook/assets/engenius-01%20%285%29.png)
 
-### 1.3 淨空範圍 Spacing 
+### 1.3 淨空範圍 Spacing
 
 {% hint style="info" %}
 請提供具體邊界留白的數字\(上/下/左/右\)
