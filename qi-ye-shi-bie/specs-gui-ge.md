@@ -8,6 +8,8 @@
 插畫、影像與輔助圖形  
 Logo與Icon
 
+![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-19100.jpg)
+
 {% hint style="info" %}
  ...請補上說明圖?
 {% endhint %}
@@ -27,6 +29,8 @@ Logo與Icon
 
 1.2.1  最小尺寸 Minimum size 
 
+![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-20100.jpg)
+
 * 數位版 Digital - 60px in width
 * 印刷版 Print - 22mm in width
 
@@ -37,6 +41,8 @@ Logo與Icon
 {% hint style="info" %}
 請提供具體邊界留白的數字\(上/下/左/右\)
 {% endhint %}
+
+![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-18100.jpg)
 
 ![](../.gitbook/assets/engenius-02.png)
 
