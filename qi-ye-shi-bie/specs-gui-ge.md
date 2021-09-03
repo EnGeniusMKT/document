@@ -29,10 +29,10 @@ Logo與Icon
 
 1.2.1  最小尺寸 Minimum size 
 
-![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-20100.jpg)
-
 * 數位版 Digital - 60px in width
 * 印刷版 Print - 22mm in width
+
+![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-20100.jpg)
 
 ![](../.gitbook/assets/engenius-01%20%285%29.png)
 
