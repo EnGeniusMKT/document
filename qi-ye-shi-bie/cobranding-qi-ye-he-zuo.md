@@ -4,6 +4,10 @@
 
 ※與Partner Logo的大小比例、位置、顏色配置
 
+![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-16100.jpg)
+
+![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-17100.jpg)
+
 ![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-13.png)
 
 ![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-14.png)
