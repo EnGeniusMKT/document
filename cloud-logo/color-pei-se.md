@@ -8,7 +8,7 @@
 * 標準版
 * 反白版
 
-![](../.gitbook/assets/gong-zuo-qu-yu-26%20%282%29.png)
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-11100.jpg)
 
 ### 2.2 背景規範
 
@@ -17,9 +17,9 @@
 * 彩色背景
 * 其他背景
 
-![](../.gitbook/assets/gong-zuo-qu-yu-26-fu-ben-2.png)
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-9100.jpg)
 
-![](../.gitbook/assets/gong-zuo-qu-yu-26-fu-ben-%20%281%29.png)
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-10100.jpg)
 
 ### 2.3 其他樣式
 

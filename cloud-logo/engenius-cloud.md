@@ -8,6 +8,14 @@
 插畫、影像與輔助圖形  
 Logo與Icon
 
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-6100.jpg)
+
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-2100%20%281%29.jpg)
+
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-100.jpg)
+
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-18100.jpg)
+
 {% hint style="info" %}
  ...請補上說明圖?
 {% endhint %}
@@ -30,9 +38,13 @@ Logo與Icon
 * 數位版 Digital - 60px in width
 * 印刷版 Print - 22mm in width
 
-![](../.gitbook/assets/engenius-01%20%285%29.png)
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-7100.jpg)
+
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-8100.jpg)
 
 ### 1.3 淨空範圍 Spacing 
 
-![](../.gitbook/assets/engenius-02.png)
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-5100.jpg)
+
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-3100.jpg)
 
