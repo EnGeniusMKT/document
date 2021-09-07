@@ -10,7 +10,7 @@
 
 ![](../../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-9100.jpg)
 
-![](../../.gitbook/assets/gong-zuo-qu-yu-1100.jpg)
+![](../../.gitbook/assets/gong-zuo-qu-yu-1100%20%282%29.jpg)
 
 ![](../../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-100.jpg)
 
