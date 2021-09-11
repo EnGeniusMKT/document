@@ -2,9 +2,7 @@
 
 APAC Partner Certifications
 
-![](../../.gitbook/assets/sg-distributor-1%20%281%29.jpg)
+![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-26100.jpg)
 
-![](../../.gitbook/assets/sg-certified-parter-1%20%281%29.jpg)
-
-![](../../.gitbook/assets/sg-authorized-partner-1%20%281%29.jpg)
+![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-27100.jpg)
 
