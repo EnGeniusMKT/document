@@ -4,17 +4,13 @@ EU Case Study
 
 * EnSky - One page Download Template
 
-![](../../.gitbook/assets/eu-case-study-ensky.jpg)
+![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-12100.jpg)
 
 * EnSky - Multi -page Download Template
 
-![](../../.gitbook/assets/eu-case-study-ensky-01.jpg)
-
-![](../../.gitbook/assets/eu-case-study-ensky-02.jpg)
-
-![](../../.gitbook/assets/eu-case-study-ensky-03.jpg)
-
 Cloud - One Page
+
+![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-13100.jpg)
 
 Download Template
 
@@ -34,9 +30,5 @@ Download Template
 
 Download Template
 
-![](../../.gitbook/assets/template-1.jpg)
-
-![](../../.gitbook/assets/test.jpg)
-
-![](../../.gitbook/assets/template-2.jpg)
+![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-14100.jpg)
 
