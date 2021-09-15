@@ -1,29 +1,15 @@
 # 1. Logo 識別標誌
 
-### 1.1 基本規範 The Basics
-
-1.1.1 Principles 使用原則
-
-1.1.2 Core Element 核心元素  
-插畫、影像與輔助圖形  
-Logo與Icon
+### 1.1 Standard Ratio  標準比例
 
 ![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-19100.jpg)
 
-{% hint style="info" %}
- ...請補上說明圖?
-{% endhint %}
+### **1.2  標準尺寸 Standard Size**
 
-### **1.2 尺寸 Size**
-
-1.2.1  最大尺寸 Maximum size 
+1.2.1  Maximum size  最大尺寸 
 
 * 數位版 Digital 
 * 印刷版 Print 
-
-{% hint style="info" %}
-請補上尺寸數字
-{% endhint %}
 
 ![](../.gitbook/assets/image%20%2842%29.png)
 
