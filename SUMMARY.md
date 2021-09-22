@@ -25,13 +25,6 @@
 * [3. Misuse錯誤範例](cloud-logo/misuse-cuo-wu-fan-li.md)
 * [4. Co-branding 企業合作](cloud-logo/4.-logo-usage-ying-yong-gui-fan.md)
 
-## EnSky 品牌識別 <a id="ensky-logo"></a>
-
-* [1. Specs 規格](ensky-logo/ensky.md)
-* [2. Color配色](ensky-logo/2.-color-pei-se.md)
-* [3. Misuse 錯誤範例](ensky-logo/3.-misuse-cuo-wu-fan-li.md)
-* [4. Co-branding 企業合作](ensky-logo/4.-logo-usage-ying-yong-gui-fan.md)
-
 ## INTERNAL COLLATERAL 內部素材版型 <a id="nei-bu-wen-jian"></a>
 
 * [1. Slides 簡報](nei-bu-wen-jian/slide-template-jian-bao/README.md)
