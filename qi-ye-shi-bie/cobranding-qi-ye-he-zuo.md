@@ -7,13 +7,13 @@ The partnership lockup is used for communication around approach EnGenius partne
 合作夥伴Logo的組合設計與陳列旨在溝通傳達EnGenius與企業的合作關係。當EnGenius與其他品牌合作時，請遵照以下Partner Logo的大小比例、位置與淨空範圍配置。  
 
 
-### Horizontal Display 橫式陳列
+### Horizontal Display 橫式排版
 
 ![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-16100.jpg)
 
 ### 
 
-### Vertical Display  直式陳列
+### Vertical Display  直式排版
 
 ![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-17100.jpg)
 
