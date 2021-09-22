@@ -20,6 +20,8 @@
 
 ![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-29100.jpg)
 
+![](../.gitbook/assets/gong-zuo-qu-yu-77-fu-ben-32100%20%281%29.jpg)
+
 3. Do not outline the EnGenius logo  
 3. 請勿在logo文字上加外框線條
 
