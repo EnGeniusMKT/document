@@ -17,8 +17,6 @@ The partnership lockup is used for communication around approach EnGenius partne
 
 ### Vertical Display  直式陳列
 
-
-
 ![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-17100.jpg)
 
 
