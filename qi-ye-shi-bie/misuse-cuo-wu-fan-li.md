@@ -1,6 +1,6 @@
 # 4.  Misuse 錯誤範例
 
-1.Do not alter the proportions of the EnGenius logo  
+1. Do not alter the proportions of the EnGenius logo  
 1. 請勿改變logo圖像的長寬比例 
 
 ![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-28100.jpg)

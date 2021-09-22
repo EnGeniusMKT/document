@@ -23,7 +23,3 @@ The partnership lockup is used for communication around approach EnGenius partne
 
 
 
-![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-13.png)
-
-![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-14.png)
-

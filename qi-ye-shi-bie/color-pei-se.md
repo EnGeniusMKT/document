@@ -1,7 +1,5 @@
 # 2.  Color 顏色
 
-### 2.1 Logo顏色
-
 ### Principle 使用原則
 
 * The EnGenius logo is always either black, white, or gray 
@@ -10,7 +8,7 @@
 
 
 
-### Color 顏色版本
+### Color Style 顏色版本
 
 Black version 黑字版
 
