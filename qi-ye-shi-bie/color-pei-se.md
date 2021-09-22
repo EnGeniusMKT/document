@@ -2,9 +2,9 @@
 
 ### Principle 使用原則
 
-* The EnGenius logo is always either black, white, or gray 
-* When placing the logo on an image or color-ed background, always use the white version. 
-* There may be some exceptions to the rule. Please reach out for permission.
+1. The EnGenius logo is always either black, white, or gray 
+2. When placing the logo on an image or color-ed background, always use the white version. 
+3. There may be some exceptions to the rule. Please reach out for permission.
 
 
 
