@@ -13,7 +13,7 @@ The partnership lockup is used for communication around approach EnGenius partne
 
 ### 
 
-### Vertical Partnership lockup 直式排版
+### Vertical Partnership lockup 直式組合排版
 
 ![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-17100.jpg)
 
