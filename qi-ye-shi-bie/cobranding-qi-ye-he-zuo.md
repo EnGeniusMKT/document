@@ -9,8 +9,6 @@ The partnership lockup is used for communication around approach EnGenius partne
 
 ### Horizontal Display 橫式陳列
 
-The partnership lockup is used for communication around approach EnGenius partnerships.
-
 ![](../.gitbook/assets/gong-zuo-qu-yu-1-fu-ben-16100.jpg)
 
 ### 
