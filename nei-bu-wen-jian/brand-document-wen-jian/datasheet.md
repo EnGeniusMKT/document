@@ -1,8 +1,6 @@
 # Datasheet
 
-Document Template  - EnSky
-
-Download Template
+* Datasheet - EnSky **Download Template**
 
 ![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-18100%20%281%29.jpg)
 
@@ -12,9 +10,7 @@ Download Template
 
 ![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-21100.jpg)
 
-Document Template  - Cloud 
-
-Download Template
+* Datasheet - Cloud **Download Template**
 
 ![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-22100.jpg)
 
@@ -22,12 +18,7 @@ Download Template
 
 ![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-24100.jpg)
 
-
-
-  
-Document Template - Home Wi-Fi 
-
-Download Template
+* Datasheet - Home Wi-Fi  **Download Template**
 
 ![](../../.gitbook/assets/doc-template-home-01.jpg)
 

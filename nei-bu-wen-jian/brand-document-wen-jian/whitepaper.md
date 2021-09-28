@@ -1,8 +1,6 @@
 # Whitepaper
 
-### Whitepaper
-
-* Cloud  [Download Template](https://docs.google.com/document/d/1X-sdVs0z34va3bS28eQoTG0UUMAGu93Q/edit) 
+* EnGenius Cloud  [**Download Template**](https://docs.google.com/document/d/1X-sdVs0z34va3bS28eQoTG0UUMAGu93Q/edit) **下載模板**
 
 ![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-6100%20%281%29.jpg)
 
