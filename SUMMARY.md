@@ -42,7 +42,6 @@
   * [Invitation - EnGenius](nei-bu-wen-jian/newsletter-dian-zi-bao/invitation-engenius.md)
   * [Invitation - EnSky](nei-bu-wen-jian/newsletter-dian-zi-bao/ensky.md)
   * [Invitation - Cloud](nei-bu-wen-jian/newsletter-dian-zi-bao/invitation-cloud.md)
-* [4. Videos 影音 \(整理版型\)](nei-bu-wen-jian/videos-ying-yin.md)
 * [5. Network Icons/Graphics 圖示](nei-bu-wen-jian/network-icons.md)
 * [6. Web Site 官網](nei-bu-wen-jian/6.-web-site-guan-wang.md)
 

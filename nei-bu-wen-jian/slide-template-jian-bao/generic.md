@@ -8,6 +8,10 @@ Time to Use: Generic EnGenius presentation
 * Font 字型：英文ROBOTO/中文思源黑體
 * Cover封面
 
+{% hint style="info" %}
+改圖，加外框與背景
+{% endhint %}
+
 ![](../../.gitbook/assets/engenius_01-1-.png)
 
 * Page內頁

@@ -20,6 +20,10 @@
 
 * Datasheet - Home Wi-Fi  **Download Template**
 
+{% hint style="info" %}
+改圖\(兩頁並列、外框、背景\)
+{% endhint %}
+
 ![](../../.gitbook/assets/doc-template-home-01.jpg)
 
 ![](../../.gitbook/assets/doc-template-home-02.jpg)

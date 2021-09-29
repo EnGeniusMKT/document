@@ -8,6 +8,12 @@ Time to Use:  EnGenius Cloud presentation
 * Font 字型：英文ROBOTO/中文思源黑體
 * Cover封面
 
+{% hint style="info" %}
+改圖，加外框與背景
+{% endhint %}
+
+
+
 ![PPT Cover](../../.gitbook/assets/cloud_01%20%281%29.jpg)
 
 * Page內頁
