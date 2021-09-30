@@ -2,7 +2,7 @@
 
 ### **EU Case Study Paper**
 
-* Cloud - One Page [**Download Template**](https://docs.google.com/document/d/1mGH9g9-PnBxaGIW4JZhcsxKbNdbgdAMO/edit?usp=sharing&ouid=118055993210092366456&rtpof=true&sd=true)
+* Cloud - One Page [**Download Template**](https://docs.google.com/document/d/1mGH9g9-PnBxaGIW4JZhcsxKbNdbgdAMO/edit?usp=sharing&ouid=118055993210092366456&rtpof=true&sd=true)**下載模板**
 
 {% hint style="info" %}
 改圖\(加外框與背景\)
