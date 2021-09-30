@@ -2,22 +2,7 @@
 
 ### **EU Case Study Paper**
 
-* EnSky - One page **Download Template** 
-
-{% hint style="info" %}
-缺圖
-{% endhint %}
-
-  
-
-
-* EnSky - Multiple pages **Download Template**
-
-![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-12100.jpg)
-
-
-
-* Cloud - One Page **Download Template**
+* Cloud - One Page [**Download Template**](https://docs.google.com/document/d/1mGH9g9-PnBxaGIW4JZhcsxKbNdbgdAMO/edit?usp=sharing&ouid=118055993210092366456&rtpof=true&sd=true)
 
 {% hint style="info" %}
 改圖\(加外框與背景\)
@@ -30,6 +15,23 @@
 * Cloud - Multiple pages **Download Template**
 
 ![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-13100.jpg)
+
+
+
+* EnSky - One page **Download Template** 
+
+
+
+{% hint style="info" %}
+改圖
+{% endhint %}
+
+  
+
+
+* EnSky - Multiple pages **Download Template**
+
+![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-12100.jpg)
 
 
 
