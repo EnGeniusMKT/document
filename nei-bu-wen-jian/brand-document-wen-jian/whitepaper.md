@@ -8,7 +8,7 @@
 
 ![](../../.gitbook/assets/gong-zuo-qu-yu-16-fu-ben-8100.jpg)
 
-* EnGenius whitepapar  [**Download Template**](https://docs.google.com/document/d/15zbOyr8_mydLYcEG7ipKJ-ukt-n0p38q/edit?usp=sharing&ouid=118055993210092366456&rtpof=true&sd=true)
+* EnGenius whitepaper  [**Download Template**](https://docs.google.com/document/d/15zbOyr8_mydLYcEG7ipKJ-ukt-n0p38q/edit?usp=sharing&ouid=118055993210092366456&rtpof=true&sd=true)**下載模板**
 
 
 
