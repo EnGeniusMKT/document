@@ -2,8 +2,8 @@
 
 ### APAC Partner Certifications
 
-* Certificate - Distributor 2021 **Download Template** 
-* Certificate - Authorized Partner 2021 **Download Template**
+* Certificate - Distributor 2021 [**Download Template**](https://docs.google.com/presentation/d/1BzFw5Il3L7pCDqjFxK1cc7WZZ3JpTCQ9/edit?usp=sharing&ouid=118055993210092366456&rtpof=true&sd=true) ****
+* Certificate - Authorized Partner 2021 [**Download Template**](https://docs.google.com/presentation/d/1OKlfJoG_MRGhch7EfHpsAmLqgByvo7B4/edit?usp=sharing&ouid=118055993210092366456&rtpof=true&sd=true)\*\*\*\*
 
 {% hint style="info" %}
 改圖，改成單一張
