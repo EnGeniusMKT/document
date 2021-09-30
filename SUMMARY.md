@@ -39,9 +39,9 @@
 * [3. Newsletters 電子報](nei-bu-wen-jian/newsletter-dian-zi-bao/README.md)
   * [EDM - EnGenius Generic](nei-bu-wen-jian/newsletter-dian-zi-bao/generic-engenius.md)
   * [EDM - EnGenius Cloud](nei-bu-wen-jian/newsletter-dian-zi-bao/cloud.md)
+  * [Invitation - Cloud](nei-bu-wen-jian/newsletter-dian-zi-bao/invitation-cloud.md)
   * [Invitation - EnGenius](nei-bu-wen-jian/newsletter-dian-zi-bao/invitation-engenius.md)
   * [Invitation - EnSky](nei-bu-wen-jian/newsletter-dian-zi-bao/ensky.md)
-  * [Invitation - Cloud](nei-bu-wen-jian/newsletter-dian-zi-bao/invitation-cloud.md)
 * [5. Network Icons/Graphics 圖示](nei-bu-wen-jian/network-icons.md)
 * [6. Web Site 官網](nei-bu-wen-jian/6.-web-site-guan-wang.md)
 
