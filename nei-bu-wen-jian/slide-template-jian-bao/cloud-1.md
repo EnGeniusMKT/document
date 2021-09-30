@@ -3,32 +3,31 @@
 Time to Use:  EnGenius Cloud presentation  
 使用時機：EnGenius Cloud 相關簡報
 
-[**Download Template**](https://drive.google.com/file/d/1-KTfwJhbpRzNYPJTaYXTDmdAkv3NbYD-/view) **下載模板**
+\*\*\*\*[**Download Template** ](https://docs.google.com/presentation/d/1Yc7zE_V8Wt2Oh_q7rra3q2shKxDY68ke/edit?usp=sharing&ouid=118055993210092366456&rtpof=true&sd=true)**下載模板**
 
 * Font 字型：英文ROBOTO/中文思源黑體
-* Cover封面
 
 {% hint style="info" %}
 改圖，加外框與背景
 {% endhint %}
 
+* Cover封面
 
-
-![PPT Cover](../../.gitbook/assets/cloud_01%20%281%29.jpg)
-
-* Page內頁
-
-![](../../.gitbook/assets/cloud_03%20%281%29.jpg)
+![](../../.gitbook/assets/cloud_01%20%282%29.jpg)
 
 * Chapter Cover 段落封面
 
-![](../../.gitbook/assets/cloud_02.jpg)
+![](../../.gitbook/assets/cloud_02%20%281%29.jpg)
 
-* Sub-topic Cover次主題封面
+* Cut-scene Cover 過場畫面
 
-![](../../.gitbook/assets/cloud_06.jpg)
+![](../../.gitbook/assets/cloud_06%20%281%29.jpg)
+
+* Page內頁
+
+![](../../.gitbook/assets/cloud_03%20%282%29.jpg)
 
 * Back Cover封底
 
-![](../../.gitbook/assets/cloud_05.jpg)
+![](../../.gitbook/assets/cloud_05%20%281%29.jpg)
 
